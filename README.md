@@ -5,4 +5,6 @@ This is a simply calculator program in Python using PyQt5. (NB: This is not my c
 - Python 3
 - PyQt5
 
+## Screeshots
+
 ![alt text](https://github.com/ThibaMahlezana/PyQt5-Calculator/blob/main/calculator-screenshot.PNG)
